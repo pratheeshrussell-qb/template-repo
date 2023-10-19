@@ -1,2 +1,2 @@
-# template-repo
-This is a template repo
+# Template Repository
+Testing template Repo
